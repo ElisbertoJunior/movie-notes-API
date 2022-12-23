@@ -1,6 +1,7 @@
 <div align="center">
     <h1>Movie Notes API</h1>
-    <h2> API completa para criação de um App para classificação dos seus filmes. </h2> 
+    <h2> API completa para  classificação dos seus filmes. </h2> 
+    <h3>Front-end da aplicação esta em desenvolvimento.</h3
 </div>  
 
 <div align="center">
